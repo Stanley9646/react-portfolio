@@ -27,12 +27,14 @@ function about() {
               I am a well founded software developer in web development
               interacting with vanilla javascript, NodeJS and ReactJS. <br />
               Also an active participant in the GDSC community where we
-              collaborate actively in our projects and improving our skills.P
+              collaborate actively in our projects and improving our skills.
               <br /> Passion in building my websites and eager to learn and try
               new things in my journey.
               <br />
               Delivery of systems in an up-to-date technology is my major key
-              goal in my projects
+              goal in my projects.
+              <br/>
+        Aspiring cloud practitioner
             </p>
           </div>
         </div>
