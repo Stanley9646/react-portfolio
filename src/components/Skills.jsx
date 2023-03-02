@@ -12,7 +12,7 @@ function skills() {
       </p>
       </div>
 
-      <div className="skills">
+      <div className="skills ">
       <div className='progress'>
         <h3 className="p-4 ml-16">HTML AND CSS</h3>
         
