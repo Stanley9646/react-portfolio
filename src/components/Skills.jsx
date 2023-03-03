@@ -3,9 +3,9 @@ import React from "react";
 function skills() {
   return (
     <div id="skills"
-    className="w-full sm:w-1/2 h-screen md:w-2/3 lg:w-1/2 mx-auto pt-16 flex items-end   max-w-[800px]  p-18  my-10    flex-col">
-      
-      <div className="m-auto flex flex-col justify-center pb-6 sm:p-2 ">
+    className="w-full sm:w-1/2 h-screen md:w-2/3 lg:w-1/2 mx-auto pt-16 flex-1 items-end   max-w-[800px]  p-18  my-10    flex-col">
+      <div className="flex-1 ml-auto">
+      <div className="m-auto flex-1 flex-col justify-center pb-6 sm:p-2 ">
       <h1 className="text-2xl m-auto font-bold p-4">My skills</h1>
       <p className="text-s m-auto py-0  ">
         Below are my ranging in the expertise of the web development:
@@ -46,6 +46,7 @@ function skills() {
           </div>
         </div>
         </div>
+      </div>
       </div>
     </div>
   );
