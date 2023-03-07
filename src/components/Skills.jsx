@@ -3,8 +3,8 @@ import React from "react";
 function skills() {
   return (
     <div id="skills"
-    className="w-full sm:w-1/2 h-screen md:w-2/3 lg:w-1/2 mx-auto pt-16 flex-1 items-end   max-w-[800px]  p-18  my-10    flex-col">
-      <div className="flex-1 ml-auto">
+    className="w-full sm:w-1/2 h-screen md:w-2/3 lg:w-1/2 mx-auto pt-16 flex-1 items-end  max-w-[800px]  p-18  my-10    flex-col">
+      <div className="flex-1 ml-auto ">
       <div className="m-auto flex-1 flex-col justify-center pb-6 sm:p-2 ">
       <h1 className="text-2xl m-auto font-bold p-4">My skills</h1>
       <p className="text-s m-auto py-0  ">
@@ -12,11 +12,11 @@ function skills() {
       </p>
       </div>
 
-      <div className="skills ">
+      <div className="skills sm:w-1/2 ">
       <div className='progress'>
         <h3 className="p-4 ml-16">HTML AND CSS</h3>
         
-        <div className="progress-bar  ">
+        <div className="progress-bar sm:w-1/2 ">
           <div className="lang ">
             <span className="percent">100%</span>
           </div>
