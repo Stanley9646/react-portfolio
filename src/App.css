@@ -136,4 +136,8 @@ border:1px solid #e91e63;
     display: 5px;
   }
 }
-
+@media(width <767px) {
+  .progress-bar{
+    width:250px;
+  }
+}
